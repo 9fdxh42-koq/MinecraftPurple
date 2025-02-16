@@ -1,3 +1,3 @@
-# Small code refactor
+# Updating example code snippets
 
-_Last updated: 2025-02-16T13:06:15.863Z_
+_Last updated: 2025-02-16T13:06:45.843Z_
