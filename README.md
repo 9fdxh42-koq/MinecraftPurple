@@ -1,3 +1,3 @@
-# Fixing compatibility issues
+# Reducing bundle size
 
-_Last updated: 2025-02-16T07:50:21.243Z_
+_Last updated: 2025-02-16T07:50:51.181Z_
