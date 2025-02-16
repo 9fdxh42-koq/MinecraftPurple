@@ -1,3 +1,3 @@
-# Enhancing frontend performance
+# Enhancing offline support
 
-_Last updated: 2025-02-16T08:55:56.790Z_
+_Last updated: 2025-02-16T08:56:40.129Z_
