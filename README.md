@@ -1,3 +1,3 @@
-# Refactoring state management logic
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T19:53:22.744Z_
+_Last updated: 2025-02-16T19:53:52.745Z_
