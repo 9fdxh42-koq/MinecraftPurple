@@ -1,3 +1,3 @@
-# Improving database indexing
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T16:17:19.126Z_
+_Last updated: 2025-02-16T16:17:49.166Z_
