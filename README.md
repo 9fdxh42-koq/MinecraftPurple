@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T20:06:22.966Z_
+_Last updated: 2025-02-16T20:06:53.015Z_
