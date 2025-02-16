@@ -1,3 +1,3 @@
-# Adjusting styling for better UX
+# Adding better exception handling
 
-_Last updated: 2025-02-16T17:16:20.157Z_
+_Last updated: 2025-02-16T17:16:50.186Z_
