@@ -1,3 +1,3 @@
-# Fixing layout inconsistencies
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T19:59:52.869Z_
+_Last updated: 2025-02-16T20:00:23.013Z_
