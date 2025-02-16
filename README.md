@@ -1,6 +1,3 @@
-# MinecraftPurpleTheme
+# Fixing race conditions in async code
 
-Install script:
-```sh
-bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/install.sh)
-```
+_Last updated: 2025-02-16T01:03:28.437Z_
