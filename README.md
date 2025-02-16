@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Refactoring file structure
 
-_Last updated: 2025-02-16T06:35:19.663Z_
+_Last updated: 2025-02-16T06:35:49.608Z_
