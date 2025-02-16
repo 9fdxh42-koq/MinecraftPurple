@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Refactoring database queries
 
-_Last updated: 2025-02-16T20:22:53.308Z_
+_Last updated: 2025-02-16T20:23:23.273Z_
