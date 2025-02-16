@@ -1,3 +1,3 @@
-# Fixing internationalization issues
+# Updating API request parameters
 
-_Last updated: 2025-02-16T19:23:52.278Z_
+_Last updated: 2025-02-16T19:24:22.346Z_
