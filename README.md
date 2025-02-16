@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T08:54:06.400Z_
+_Last updated: 2025-02-16T08:55:12.352Z_
