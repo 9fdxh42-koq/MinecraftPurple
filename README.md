@@ -1,3 +1,3 @@
-# Adding drag-and-drop functionality
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T06:28:19.635Z_
+_Last updated: 2025-02-16T06:28:49.549Z_
