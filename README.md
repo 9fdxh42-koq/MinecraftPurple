@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Reducing bundle size
 
-_Last updated: 2025-02-16T07:53:51.114Z_
+_Last updated: 2025-02-16T07:54:21.158Z_
