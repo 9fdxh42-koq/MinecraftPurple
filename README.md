@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Updating project metadata
 
-_Last updated: 2025-02-16T06:28:49.549Z_
+_Last updated: 2025-02-16T06:29:19.575Z_
