@@ -1,3 +1,3 @@
-# Refactoring file structure
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T10:56:50.489Z_
+_Last updated: 2025-02-16T10:57:20.498Z_
