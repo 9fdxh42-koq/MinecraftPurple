@@ -1,3 +1,3 @@
-# Improving database indexing
+# Fixing compatibility issues
 
-_Last updated: 2025-02-16T09:36:49.750Z_
+_Last updated: 2025-02-16T09:37:20.261Z_
