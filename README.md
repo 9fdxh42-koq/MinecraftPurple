@@ -1,3 +1,3 @@
-# Updating outdated references
+# Updating API request parameters
 
-_Last updated: 2025-02-16T16:48:19.713Z_
+_Last updated: 2025-02-16T16:48:49.638Z_
