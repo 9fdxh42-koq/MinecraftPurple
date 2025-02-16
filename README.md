@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Improving application startup time
 
-_Last updated: 2025-02-16T12:26:52.126Z_
+_Last updated: 2025-02-16T12:27:22.257Z_
