@@ -1,3 +1,3 @@
-# Improving comments in code
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T12:40:52.747Z_
+_Last updated: 2025-02-16T12:41:22.499Z_
