@@ -1,3 +1,3 @@
-# Reducing redundant operations
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T23:08:26.813Z_
+_Last updated: 2025-02-16T23:09:07.859Z_
