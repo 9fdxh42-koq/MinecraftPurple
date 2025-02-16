@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T02:11:42.456Z_
+_Last updated: 2025-02-16T02:12:12.371Z_
