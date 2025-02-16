@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Small code refactor
 
-_Last updated: 2025-02-16T06:25:19.459Z_
+_Last updated: 2025-02-16T06:25:49.415Z_
