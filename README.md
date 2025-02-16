@@ -1,3 +1,3 @@
-# Refining notification system
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T05:21:58.409Z_
+_Last updated: 2025-02-16T05:22:28.104Z_
