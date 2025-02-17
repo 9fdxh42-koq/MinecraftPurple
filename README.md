@@ -1,3 +1,3 @@
-# Refactoring component structure
+# Refactoring file structure
 
-_Last updated: 2025-02-17T21:44:15.509Z_
+_Last updated: 2025-02-17T21:44:45.500Z_
