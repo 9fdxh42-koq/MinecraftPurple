@@ -1,3 +1,3 @@
-# Improving application startup time
+# Reducing redundant operations
 
-_Last updated: 2025-02-17T22:07:15.926Z_
+_Last updated: 2025-02-17T22:07:46.016Z_
