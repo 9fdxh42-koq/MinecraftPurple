@@ -1,3 +1,3 @@
-# Adjusting styling for better UX
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T21:20:14.877Z_
+_Last updated: 2025-02-17T21:20:44.936Z_
