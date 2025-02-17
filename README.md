@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Refactoring component structure
 
-_Last updated: 2025-02-17T16:58:11.468Z_
+_Last updated: 2025-02-17T16:58:41.511Z_
