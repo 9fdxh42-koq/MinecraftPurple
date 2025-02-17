@@ -1,3 +1,3 @@
-# Refactoring file structure
+# Adding better exception handling
 
-_Last updated: 2025-02-17T08:45:25.940Z_
+_Last updated: 2025-02-17T08:45:45.339Z_
