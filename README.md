@@ -1,3 +1,3 @@
-# Optimizing CSS rules
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T17:37:41.182Z_
+_Last updated: 2025-02-17T17:38:11.204Z_
