@@ -1,3 +1,3 @@
-# Adding missing documentation
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T23:02:46.911Z_
+_Last updated: 2025-02-17T23:03:16.921Z_
