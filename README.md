@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Updating project metadata
 
-_Last updated: 2025-02-17T19:09:42.705Z_
+_Last updated: 2025-02-17T19:10:12.691Z_
