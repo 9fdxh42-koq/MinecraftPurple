@@ -1,3 +1,3 @@
-# Improving database indexing
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T18:50:42.474Z_
+_Last updated: 2025-02-17T18:51:12.432Z_
