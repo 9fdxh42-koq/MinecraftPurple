@@ -1,3 +1,3 @@
-# Fixing event listener memory leaks
+# Improving session handling
 
-_Last updated: 2025-02-17T18:42:12.264Z_
+_Last updated: 2025-02-17T18:42:42.323Z_
