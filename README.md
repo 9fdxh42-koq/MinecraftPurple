@@ -1,3 +1,3 @@
-# Updating outdated references
+# Enhancing offline support
 
-_Last updated: 2025-02-17T15:20:40.297Z_
+_Last updated: 2025-02-17T15:21:10.349Z_
