@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Updating API request parameters
 
-_Last updated: 2025-02-17T14:07:38.985Z_
+_Last updated: 2025-02-17T14:08:09.269Z_
