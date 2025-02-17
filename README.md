@@ -1,3 +1,3 @@
-# Adding multi-language support
+# Updating example code snippets
 
-_Last updated: 2025-02-17T02:42:37.089Z_
+_Last updated: 2025-02-17T02:43:06.972Z_
