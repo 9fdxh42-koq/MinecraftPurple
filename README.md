@@ -1,3 +1,3 @@
-# Fixing session timeout issues
+# Updating API request parameters
 
-_Last updated: 2025-02-17T13:55:38.669Z_
+_Last updated: 2025-02-17T13:56:08.795Z_
