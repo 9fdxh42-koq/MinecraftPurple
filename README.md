@@ -1,3 +1,3 @@
-# Updating CI/CD pipeline
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T10:06:48.734Z_
+_Last updated: 2025-02-17T10:07:18.843Z_
