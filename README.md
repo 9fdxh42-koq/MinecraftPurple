@@ -1,3 +1,3 @@
-# Performance improvements
+# Improving application startup time
 
-_Last updated: 2025-02-17T20:52:14.161Z_
+_Last updated: 2025-02-17T20:52:44.584Z_
