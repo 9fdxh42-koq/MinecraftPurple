@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T04:03:22.972Z_
+_Last updated: 2025-02-17T04:03:53.340Z_
