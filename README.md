@@ -1,3 +1,3 @@
-# Adding missing documentation
+# Refactoring component structure
 
-_Last updated: 2025-02-17T15:33:43.247Z_
+_Last updated: 2025-02-17T15:34:10.297Z_
