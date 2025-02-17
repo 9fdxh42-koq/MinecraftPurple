@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Optimizing caching mechanism
 
-_Last updated: 2025-02-17T14:18:39.334Z_
+_Last updated: 2025-02-17T14:19:09.219Z_
