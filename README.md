@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-17T16:15:40.897Z_
+_Last updated: 2025-02-17T16:16:10.901Z_
