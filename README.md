@@ -1,3 +1,3 @@
-# Fixing UI glitches
+# Improving session handling
 
-_Last updated: 2025-02-17T15:22:40.343Z_
+_Last updated: 2025-02-17T15:23:10.189Z_
