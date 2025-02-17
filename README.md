@@ -1,3 +1,3 @@
-# Updating project metadata
+# Updating documentation formatting
 
-_Last updated: 2025-02-17T23:59:27.660Z_
+_Last updated: 2025-02-17T23:59:37.306Z_
