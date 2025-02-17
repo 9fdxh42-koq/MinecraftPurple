@@ -1,3 +1,3 @@
-# Refactoring component structure
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T06:33:56.087Z_
+_Last updated: 2025-02-17T06:34:26.083Z_
