@@ -1,3 +1,3 @@
-# Fixing permission issues
+# Reducing bundle size
 
-_Last updated: 2025-02-17T09:08:29.015Z_
+_Last updated: 2025-02-17T09:09:04.944Z_
