@@ -1,3 +1,3 @@
-# Synchronizing with latest upstream changes
+# Updating example code snippets
 
-_Last updated: 2025-02-17T04:34:24.279Z_
+_Last updated: 2025-02-17T04:34:54.073Z_
