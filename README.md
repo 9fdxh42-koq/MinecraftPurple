@@ -1,3 +1,3 @@
-# Fixing image rendering issues
+# Fixing broken links in README
 
-_Last updated: 2025-02-18T01:44:29.671Z_
+_Last updated: 2025-02-18T01:44:39.690Z_
