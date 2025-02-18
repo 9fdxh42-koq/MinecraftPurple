@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Fixing inconsistent naming conventions
 
-_Last updated: 2025-02-18T00:42:01.175Z_
+_Last updated: 2025-02-18T00:42:11.010Z_
